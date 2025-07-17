@@ -1,14 +1,14 @@
 # Pablo-Cesan
 
-# Sistema de Control de Tráfico Aéreo ✈️
+# Final: Sistema de Control de Trafico Aereo ✈️
 
 Este proyecto es un backend en Node.js que simula una torre de control de vuelos. Recibe coordenadas de aeronaves y emite alertas si hay riesgo de colisión.
 
 ## Instalacion
 
 1. Clonar el repositorio:
-    git clone https://github.com/PabloDCesan/control-aereo.git
-    cd control-aereo
+    git clone https://github.com/PabloDCesan/Pablo-Cesan.git
+    cd Pablo-Cesan
 2. Instalar dependencias:
     npm install
 3. Iniciar server:

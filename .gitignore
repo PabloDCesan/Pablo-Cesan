@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Entorno
+.env
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+logs
+*.log
